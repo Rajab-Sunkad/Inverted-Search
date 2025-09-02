@@ -36,13 +36,14 @@ Inverted search (or inverted indexing) is a fundamental technique in information
   - Display → print the complete index.
   - Save → store index in a file for later use.
  ---
-# 🖥️ Sample Run and Output
+# 🖥️ Sample Run
 ```bash
 ./inverted_search file1.txt file2.txt....
 ```
-INFO: List created for file1.txt
-INFO: List created for file2.txt
-INFO: List created for file3.txt
+# Output:
+- INFO: List created for file1.txt
+- INFO: List created for file2.txt
+- INFO: List created for file3.txt
 1. Create database
 2. Display database
 3. Search database
