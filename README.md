@@ -3,9 +3,9 @@ A Data Structures project in C that builds an inverted index from multiple text 
 ---
 # 📌 Overview
 
-This project implements an Inverted Search Engine in C using Hash Table and Linked List data structures.
-Inverted search, also known as inverted indexing, is a technique used in information retrieval systems, such as search engines, to efficiently retrieve documents or records that contain specific keywords or phrases.
-Inverted search, on the other hand, uses an inverted index data structure to store the relationships between keywords or phrases and the documents or records that contain them.
+Inverted Search Engine in C
+This project demonstrates an Inverted Search Engine implemented in C, utilizing Hash Table and Linked List data structures.
+Inverted search (or inverted indexing) is a fundamental technique in information retrieval systems, widely used in search engines, to quickly locate documents or records containing specific keywords or phrases.
 ---
 # 🔧 Features
 
@@ -40,7 +40,7 @@ Inverted search, on the other hand, uses an inverted index data structure to sto
 ```bash
 ./inverted_search file1.txt file2.txt....
 ```
-NFO: List created for file1.txt
+INFO: List created for file1.txt
 INFO: List created for file2.txt
 INFO: List created for file3.txt
 1. Create database
